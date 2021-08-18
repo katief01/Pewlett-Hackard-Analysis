@@ -23,4 +23,4 @@
     
 * This table also showed very large numbers of highly qualified, retirement-ready employees available for mentoring the next generation of Pewlett Hackard employees.  The manager role showed only 2 retiremnt-ready individuals so this department may need assistance in training future managers.
 
-  In summary, a new table which provides all employees per title who are elegible for mentorship would give greater insight into the ability to support the upcoming wave of retiring individuals.  A separate table which provides a count of these mentorship-eligible employees would allow us to see a snapshot of numbers to compare to the Retiring Titles numbers (which shows the number of retirement-aged individuals in each department). 
+  In summary, a new table which provides all employees per title who are eligible for mentorship would give greater insight into the ability to support the upcoming wave of retiring individuals.  A separate table which provides a count of these mentorship-eligible employees would allow us to see a snapshot of numbers to compare to the Retiring Titles numbers (which shows the number of retirement-aged individuals in each department). 
